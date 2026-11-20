@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor junk
+*.swp
+*~
+.idea/
+.vscode/
+
+# Local agent state
+.claude/settings.local.json
+node_modules/
+__pycache__/
