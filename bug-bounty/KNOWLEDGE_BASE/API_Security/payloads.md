@@ -113,7 +113,7 @@ https://3d.cs.money/item/0UkWN8vh2R
 **Context:** JSON body
 **Bypasses:** WAF / Input Validation Filter
 **Framework:** Framework-agnostic
-**Source:** [Report #1022048](https://hackerone.com/reports/1022048)
+**Source:** [Report #1066410](https://hackerone.com/reports/1066410) (publicly disclosed key used as a canonical example)
 
 #### Payload 9
 
